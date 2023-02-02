@@ -1,9 +1,12 @@
 body {
-  margin: 0;
-  padding: 0;
+  position: relative;
 }
 
 .card {
   width: 330px;
   flex-wrap: nowrap;
+}
+
+#portfolio {
+  padding: 100px 20px;
 }
